@@ -1,5 +1,5 @@
 {
-    "name": "stefanini/desafio2",
+    "name": "ezequiel/desafio2",
     "autoload": {
         "psr-4": {
             "app\\": "app/"
